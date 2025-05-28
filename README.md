@@ -14,9 +14,7 @@
 
 ---
 
-> “The code you write today becomes someone else's legacy tomorrow. Write with care.” 🧾
-
-
+> “Great code isn’t just written — it’s engineered, evolved, and iterated. Build boldly.” ⚡
 
 <!--
 **eeshaansarda/eeshaansarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
