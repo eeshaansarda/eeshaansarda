@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Eeshaan Sarda
 
-🎓 **CS Graduate** from the University of St Andrews (Dean’s List, 2019–2023)  
-💻 **Full-Stack Developer** | 🚀 Love building new things  
+💻 Passionate about building software since age 11  
+🛠️ Completed 30+ projects across web, systems, and automation  
+🎓 **Computer Science Graduate** from the University of St Andrews — Dean’s List (2019–2023)  
+🌐 **Full-Stack Developer** | 🚀 Love building new things
 
 ---
 
