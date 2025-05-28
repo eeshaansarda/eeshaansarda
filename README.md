@@ -7,16 +7,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, C/C++, Rust, Haskell  
-**Frontend:** React, React Native, Next.js, Tailwind CSS, Zod  
-**Backend:** Node.js, Express.js, Flask, Django, FastAPI, WebSockets  
-**Databases:** PostgreSQL, MongoDB, MariaDB, Prisma ORM  
-**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD  
-
----
-
 ## 🧠 Interests
 
 - Linux customization & tooling  
