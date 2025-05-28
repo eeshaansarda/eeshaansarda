@@ -7,14 +7,6 @@
 
 ---
 
-## 🧠 Interests
-
-- Linux customization & tooling  
-- Chess & strategy games  
-- Fiction reading  
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/eeshaansarda](https://linkedin.com/in/eeshaansarda)  
