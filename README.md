@@ -2,8 +2,10 @@
 
 🚀 I fell in love with **Computer Science** when I was just 11.  
 🛠️ Since then, I've built **30+ projects** exploring everything from games to fullstack applications.  
-🎓 I completed my **CS degree from the University of St Andrews**.  
-🌐 I'm currently working as a **Full Stack Engineer** with **2 years of professional experience**.
+🎓 I completed my **Bachelors in CS degree from the University of St Andrews**.  
+🌐 For the past two years, I've been working as a **Full Stack Engineer**. 
+
+I'm open to new opportunities – please feel free to reach out at **sardaeeshaan@gmail.com**.
   
 ---
   
