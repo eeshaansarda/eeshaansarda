@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Eeshaan Sarda
+# 👋 Hi, I'm Eeshaan Sarda 
 
-🎓 **Computer Science Graduate** from the University of St Andrews — Dean’s List (2019–2023)  
-🌐 **Full-Stack Developer** | 🚀 Love building new things  
-💻 Passionate about building software since age 11  
-🛠️ Completed 30+ projects across web, systems, and automation  
-
+🚀 I fell in love with **Computer Science** when I was just 11.  
+🛠️ Since then, I've built **30+ projects** exploring everything from games to developer tools.  
+🎓 I earned my **CS degree from the University of St Andrews**, graduating with distinction.  
+🌐 I'm currently working as a **Full Stack Engineer** with **2 years of professional experience**.
+  
 ---
+  
+## 🛠️ Tech Stack
 
-## 📫 Let's Connect
+**Languages:** JavaScript, TypeScript, Python, Java, C/C++, Rust, Haskell  
+**Frontend:** React, React Native, Next.js, Tailwind CSS, Zod  
+**Backend:** Node.js, Express.js, Flask, Django, FastAPI, WebSockets  
+**Databases:** PostgreSQL, MongoDB, MariaDB, Prisma ORM  
+**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD  
 
-- LinkedIn: [linkedin.com/in/eeshaansarda](https://linkedin.com/in/eeshaansarda)  
-- Email: sardaeeshaan@gmail.com  
-
----
-
-> “Great code isn’t just written — it’s engineered, evolved, and iterated. Build boldly.” ⚡
 
 <!--
 **eeshaansarda/eeshaansarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
